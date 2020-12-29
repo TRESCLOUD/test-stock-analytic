@@ -1,0 +1,4 @@
+[submodule "TRESCLOUD/account-analytic"]
+	path = TRESCLOUD/account-analytic
+	url = git@github.com:TRESCLOUD/account-analytic.git
+	branch = 13.0
